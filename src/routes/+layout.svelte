@@ -4,7 +4,7 @@
 
 <header class="container">
 	<hgroup>
-		<h1>Clock</h1>
+		<h1>Kid Clock</h1>
 		<ThemeToggle />
 	</hgroup>
 </header>
@@ -16,6 +16,6 @@
 	hgroup {
 		display: flex;
         justify-content: space-between;
-        align-items: baseline;    
+        align-items: center;    
 	}
 </style>
